@@ -1,0 +1,10 @@
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.exe.config
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.exe
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiSelamatDatang\AplikasiSelamatDatang\bin\Debug\AplikasiSelamatDatang.pdb
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csprojAssemblyReference.cache
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.frmSelamatDatang.resources
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.Properties.Resources.resources
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.GenerateResource.cache
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.csproj.CoreCompileInputs.cache
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.exe
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiSelamatDatang\AplikasiSelamatDatang\obj\Debug\AplikasiSelamatDatang.pdb

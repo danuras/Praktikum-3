@@ -1,0 +1,9 @@
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe.config
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.exe
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TulisanBerjalan\TulisanBerjalan\bin\Debug\TulisanBerjalan.pdb
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.frmTulisanBerjalan.resources
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.Properties.Resources.resources
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.GenerateResource.cache
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.csproj.CoreCompileInputs.cache
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.exe
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TulisanBerjalan\TulisanBerjalan\obj\Debug\TulisanBerjalan.pdb

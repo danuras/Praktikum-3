@@ -1,0 +1,10 @@
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.exe.config
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.exe
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TugasTiga1\TugasTiga1\bin\Debug\TugasTiga1.pdb
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csprojAssemblyReference.cache
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.Form1.resources
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.Properties.Resources.resources
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.GenerateResource.cache
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.csproj.CoreCompileInputs.cache
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.exe
+D:\C\Matkul\Semester 3\Pemrograman lanjut\3\TugasTiga1\TugasTiga1\obj\Debug\TugasTiga1.pdb
