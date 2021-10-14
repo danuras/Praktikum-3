@@ -1,9 +1,0 @@
-D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe.config
-D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.exe
-D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\bin\Debug\AplikasiLatihanTiga3.pdb
-D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.frmLatihanTiga3.resources
-D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.Properties.Resources.resources
-D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.GenerateResource.cache
-D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.csproj.CoreCompileInputs.cache
-D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.exe
-D:\C\Matkul\Semester 3\Pemrograman lanjut\3\AplikasiLatihanTiga3\AplikasiLatihanTiga3\obj\Debug\AplikasiLatihanTiga3.pdb
